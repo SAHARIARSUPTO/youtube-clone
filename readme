@@ -1,0 +1,11 @@
+To run this application, follow these steps:
+
+    Download the application files to your computer.
+    Locate the downloaded file and right-click on it.
+    From the context menu, select "Open in Terminal" or "Open with Terminal," depending on your operating system.
+    Once the terminal is open, execute the command "npm install" to install the required dependencies for the application.
+    After the installation process is complete, run the command "npm run dev" in the terminal to start the development server.
+    The terminal should display a link or address where the application is hosted. It will typically be in the format "http://localhost:port" where "port" is a number.
+    Open a web browser and enter the provided link to access and interact with the application.
+
+Please note that the instructions assume you have Node.js and npm (Node Package Manager) installed on your system. If you haven't installed them yet, you'll need to do so before proceeding with the above steps. Additionally, ensure that you have a compatible web browser to access the application once it is running.
